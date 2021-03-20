@@ -14,3 +14,4 @@ Release branches are merged into the main branch and into the develop branch.
 Important bugs in the main branch are fixed in temporary hotfix branches.
 Hotfix branches are merged into the main and the developer branch.
 
+The fork workflow is popular thanks to github
